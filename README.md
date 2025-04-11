@@ -37,7 +37,14 @@
 
 ###
 
-<p align="left">🚀 Fullstack developer specialized in PHP, Laravel and Javascript<br>🔨 I'm currently working on a restaurant reservation API system.<br>🌱 I’m currently learning React, NodeJS, NextJS, Typescript, Dockers<br>💼 All of my projects are available at https://vfh-portfolio.netlify.app/<br>✨ Fun facts: I love video games, anime and electronic music.<br>🧠 Always exploring and learning new technologies, with the methodology of always practicing.</p>
+<p align="left">
+  🚀 Fullstack developer specialized in PHP, Laravel and Javascript <br>
+  🔨 I'm currently working on a <a href="https://github.com/vfaundez-dev/sistema_reserva_restaurantes" target="_blank">Restaurant Reservation API System</a>. <br>
+  🌱 I’m currently learning React, NodeJS, NextJS, Typescript, Dockers <br>
+  💼 All of my projects are available at <a href="https://vfh-portfolio.netlify.app/" target="_blank">My Portfolio</a> <br>
+  ✨ Fun facts: I love video games, anime and electronic music. <br>
+  🧠 Always exploring and learning new technologies, with the methodology of always practicing.
+</p>
 
 ###
 
