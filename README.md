@@ -8,17 +8,11 @@
 
 <div align="center">
   <a href="https://vfh-portfolio.netlify.app/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/PORTFOLIO-222222?style=for-the-badge&logoColor=1DCD9F" 
-      alt="PORTFOLIO"
-    />
+    <img src="https://img.shields.io/badge/PORTFOLIO-222222?style=for-the-badge&logoColor=1DCD9F" alt="Portfolio Badge"/>
   </a>
-  <a
-    href="https://www.linkedin.com/in/vladimir-faundezh/">
-    <img
-    src="https://img.shields.io/badge/LINKEDIN-0E76A8?style=for-the-badge" 
-    alt="LINKEDIN" />
-    </a>
+  <a href="https://www.linkedin.com/in/vladimir-faundezh/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0E76A8?style=for-the-badge" alt="Portfolio Badge"/>
+  </a>
 </div>
 
 ###
