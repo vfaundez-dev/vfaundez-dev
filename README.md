@@ -2,10 +2,6 @@
 
 ###
 
-<h3 align="center">< Fullstack Developer | IT Support /></h3>
-
-###
-
 <div align="center">
   <a href="https://vfh-portfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-222222?style=for-the-badge&logoColor=1DCD9F" alt="Portfolio Badge"/>
@@ -13,6 +9,12 @@
   <a href="https://www.linkedin.com/in/vladimir-faundezh/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0E76A8?style=for-the-badge" alt="Portfolio Badge"/>
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=22&pause=1000&width=435&lines=Fullstack+Developer+%7C+IT+Support" alt="Typing SVG" />
 </div>
 
 ###
@@ -42,67 +44,15 @@
 
 ###
 
-<h3 align="left">🛠️Tech Stack</h3>
+<h3 align="center">🛠️Tech Stack</h3>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="36" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="36" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="36" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="36" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="36" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="36" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/astro/FF5D01" height="36" alt="astro logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="36" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="36" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="36" alt="composer logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="32" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="32" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="32" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="32" alt="netlify logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="32" alt="cloudflare logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" height="32" alt="d3js logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="32" alt="digitalocean logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="32" alt="putty logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="32" alt="slack logo"  />
-</div>
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=html,css,javascript,php,laravel,jquery,bootstrap,tailwindcss,mysql,postgresql,sqlite,astro,vite,npm,pnpm,git,github,linux,ubuntu,netlify,vercel,cloudflare,firebase,postman&perline=12"
+  />
+</p>
 
 ###
 
@@ -114,10 +64,21 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vfaundez-dev/vfaundez-dev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vfaundez-dev/vfaundez-dev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vfaundez-dev/vfaundez-dev/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/vfaundez-dev/vfaundez-dev/output/pacman-contribution-graph-dark.svg"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/vfaundez-dev/vfaundez-dev/output/pacman-contribution-graph.svg"
+    >
+    <img
+      alt="pacman contribution graph"
+      src="https://raw.githubusercontent.com/vfaundez-dev/vfaundez-dev/output/pacman-contribution-graph.svg"
+    >
+  </picture>
+</div>
 
 ###
